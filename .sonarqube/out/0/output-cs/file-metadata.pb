@@ -1,0 +1,13 @@
+[
+RD:\microservicesReactAssessment\TrainerManagement\Controllers\Trainercontroller.csutf-8O
+FD:\microservicesReactAssessment\TrainerManagement\Data\ApiDbcontext.csutf-8]
+TD:\microservicesReactAssessment\TrainerManagement\Migrations\20231223050104_check.csutf-8h
+]D:\microservicesReactAssessment\TrainerManagement\Migrations\20231223050104_check.Designer.csutf-8d
+YD:\microservicesReactAssessment\TrainerManagement\Migrations\ApiDbContextModelSnapshot.csutf-8P
+GD:\microservicesReactAssessment\TrainerManagement\Model\TrainerModel.csutf-8E
+<D:\microservicesReactAssessment\TrainerManagement\Program.csutf-8E
+<D:\microservicesReactAssessment\TrainerManagement\Startup.csutf-8q
+fD:\microservicesReactAssessment\TrainerManagement\obj\Debug\net7.0\TrainerManagement.GlobalUsings.g.csutf-8|
+qD:\microservicesReactAssessment\TrainerManagement\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.csutf-8o
+dD:\microservicesReactAssessment\TrainerManagement\obj\Debug\net7.0\TrainerManagement.AssemblyInfo.csutf-8‚
+wD:\microservicesReactAssessment\TrainerManagement\obj\Debug\net7.0\TrainerManagement.MvcApplicationPartsAssemblyInfo.csutf-8

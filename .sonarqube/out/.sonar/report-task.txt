@@ -1,0 +1,6 @@
+projectKey=MicroservicesReact
+serverUrl=http://localhost:9000
+serverVersion=10.3.0.82913
+dashboardUrl=http://localhost:9000/dashboard?id=MicroservicesReact
+ceTaskId=AY0vjwQK1IJs0c8JP8JF
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AY0vjwQK1IJs0c8JP8JF

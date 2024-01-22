@@ -1,0 +1,15 @@
+﻿D:\microservicesReactAssessment\TrainerManagement\Controllers\Trainercontroller.cs
+D:\microservicesReactAssessment\TrainerManagement\Data\ApiDbcontext.cs
+D:\microservicesReactAssessment\TrainerManagement\Migrations\20231223050104_check.cs
+D:\microservicesReactAssessment\TrainerManagement\Migrations\20231223050104_check.Designer.cs
+D:\microservicesReactAssessment\TrainerManagement\Migrations\ApiDbContextModelSnapshot.cs
+D:\microservicesReactAssessment\TrainerManagement\Model\TrainerModel.cs
+D:\microservicesReactAssessment\TrainerManagement\Program.cs
+D:\microservicesReactAssessment\TrainerManagement\Startup.cs
+D:\microservicesReactAssessment\TrainerManagement\obj\Debug\net7.0\TrainerManagement.GlobalUsings.g.cs
+D:\microservicesReactAssessment\TrainerManagement\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+D:\microservicesReactAssessment\TrainerManagement\obj\Debug\net7.0\TrainerManagement.AssemblyInfo.cs
+D:\microservicesReactAssessment\TrainerManagement\obj\Debug\net7.0\TrainerManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\microservicesReactAssessment\TrainerManagement\appsettings.Development.json
+D:\microservicesReactAssessment\TrainerManagement\appsettings.json
+D:\microservicesReactAssessment\TrainerManagement\Properties\launchSettings.json
